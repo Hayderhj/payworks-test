@@ -1,0 +1,14 @@
+.lang-options {
+  display: flex;
+  justify-content: center;
+}
+
+.lang-options__items {
+  cursor: pointer;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.lang-options__items--selected {
+  color: #52c0a7;
+}

@@ -1,0 +1,20 @@
+.filter{
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.filter__label {
+  
+}
+
+.filter__input{
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.43);
+  font-size: 16px;
+  margin: 10px 0;
+  padding: 5px;
+  width: 80%;
+}
+

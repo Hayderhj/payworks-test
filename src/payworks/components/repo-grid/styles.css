@@ -1,0 +1,37 @@
+a {
+  text-decoration: none;
+  color: #143672;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+.repo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.grid-item {
+  margin: 20px;
+  text-align: center;
+}
+
+.grid-item__stars{
+  font-size: 20px;
+  margin: 10px;
+}
+
+.grid-item__repo-card {
+  margin-bottom: 7px;
+}
+
+.grid-item__avatar{
+  width: 150px;
+  border-radius: 50%;
+}
