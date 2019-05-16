@@ -1,3 +1,12 @@
+in a console/terminal
+
+> yarn
+> yarn start
+
+or visit 
+
+https://payworks-45582.firebaseapp.com/
+
 Functionality:
 
 - It should be possible to specify the organisation (e.g. payworks).
